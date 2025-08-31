@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Juan Guillermo
 
-🎓 Estudiante de Ingeniería de Software y datos (2do semestre). ![IU Digital](https://img.shields.io/badge/IU%20Digital%20de%20Antioquia-002855?style=for-the-badge&logo=data:image/png;base64,LOGO_EN_BASE64)
+🎓 Estudiante de Ingeniería de Software y datos (2do semestre). <img src="URL_DEL_LOGO" alt="IU Digital de Antioquia" width="150"/>
+
 
 💻 Apasionado por el desarrollo backend con Java.  
 🚀 Actualmente aprendiendo: Spring Boot.  
