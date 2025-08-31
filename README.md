@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Juan Guillermo
 
-🎓 Estudiante de Ingeniería de Software y datos (2do semestre).![IU Digital](https://img.shields.io/badge/IU%20Digital%20de%20Antioquia-800000?style=for-the-badge&logo=google-scholar&logoColor=white)  
+🎓 Estudiante de Ingeniería de Software y datos (2do semestre). ![IU Digital](https://img.shields.io/badge/IU%20Digital%20de%20Antioquia-002855?style=for-the-badge&logo=data:image/png;base64,LOGO_EN_BASE64)
+
 💻 Apasionado por el desarrollo backend con Java.  
 🚀 Actualmente aprendiendo: Spring Boot.  
 🔍 Buscando mi primera oportunidad como **desarrollador backend junior**.  
@@ -42,7 +43,7 @@
 ## 🌐 Conecta conmigo  
 
 - Email: juanespitiacontreras@gmail.com
-- linkedin: linkedin.com/in/juan-guillermo-espitia-contreras-013a34219
+- linkedin: [linkedin.com/in/juan-guillermo-espitia-contreras-013a34219](https://www.linkedin.com/in/juan-guillermo-espitia-contreras-013a34219/)
 
 ---
 
